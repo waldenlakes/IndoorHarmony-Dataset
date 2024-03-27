@@ -1,0 +1,13 @@
+End User License of IndoorHarmony Dataset (https://github.com/waldenlakes/IndoorHarmony-Dataset)
+The person who downloads and uses this dataset must agree to the following terms:
+1. Commercial and academic use
+The dataset is made available for research purposes only. Any commercial use of this data is strictly forbidden.
+2. Redistribution
+The user may not distribute the dataset or parts of it to any third party. 
+3. Publications
+The use of data for illustrative purposes in publications is allowed. Publications include both scientific papers, and presentations for scientific/educational purposes.
+4. Citation
+All publications reporting on research that uses the dataset have to acknowledge this by citing one of the following paper:
+Zhongyun Hu, Jiahao Li, Xue Wang, and Qing Wang. "Spatially-Varying Illumination-Aware Indoor Harmonization." International Journal of Computer Vision (2024).
+5. Warranty
+The dataset comes without any warranty. In no event shall the provider be held responsible for any loss or damage caused by the use of this data.
