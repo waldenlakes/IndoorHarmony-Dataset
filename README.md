@@ -29,10 +29,13 @@ If you use these data in your research, please cite:
 
 ```
 @article{hu2024sv,
-  title={Spatially-Varying Illumination-Aware Indoor Harmonization},
+  title={Spatially-{Varying} {Illumination}-{Aware} {Indoor} {Harmonization}},
   author={Hu, Zhongyun and Li, Jiahao and Wang, Xue and Wang, Qing},
   journal={International Journal of Computer Vision},
-  year={2024}
+  year={2024},
+  volume={132},
+  number={7},
+  pages={2473--2492}
 }
 ```
 
